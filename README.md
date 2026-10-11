@@ -8,8 +8,9 @@ This project will show, how we can use bmp280 with hw611 module on arduino nano 
 
 This picture shows, how we can connect bmp280 by spi 
 
+<p align="center">
 <img width="184" height="245" alt="image" src="https://github.com/user-attachments/assets/b87f06b6-0014-4aae-8d4d-7108f0dc9b92" />
-
+</p>
 
 [Pinout-NANOevery_v1.pdf](https://github.com/user-attachments/files/33303893/Pinout-NANOevery_v1.pdf)# bmp280_with_arduino
 
