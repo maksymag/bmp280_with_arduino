@@ -22,8 +22,8 @@ This picture shows, how we can connect bmp280 by spi
 
 <p align="center">
 <img width="2377" height="2106" alt="arduino_nano_every_with_bmp280 drawio (1)" src="https://github.com/user-attachments/assets/c7689cc9-a728-4297-9cb6-df29576ffca5" />
-
-
+</p>
+<p align="center">
 This drawing ilustrate, how I connected 2 pressure sensors to Arduino nano every 
 </p>
 List of articles, which I used for this task: 
