@@ -1,11 +1,11 @@
 
 Here you can read about my project with pressure indicator bmp280, which will be connected by the I2C and SPI protocol to Arduino Nnao every. 
-This project will show, how we can use bmp280 with hw611 module on arduino nano every
-We will see 
+This project will show, how we can use bmp280 with hw611 module on arduino nano every.
 
 <img width="985" height="465" alt="bmp280_pinout" src="https://github.com/user-attachments/assets/5415ce54-8728-4425-bd09-5d1f6cc59193" />
 
 
+<img width="184" height="245" alt="image" src="https://github.com/user-attachments/assets/b87f06b6-0014-4aae-8d4d-7108f0dc9b92" />
 
 
 [Pinout-NANOevery_v1.pdf](https://github.com/user-attachments/files/33303893/Pinout-NANOevery_v1.pdf)# bmp280_with_arduino
@@ -16,3 +16,8 @@ We will see
 
 
 
+List of articles, which I used for this task: 
+
+https://www.circuitschools.com/interfacing-bmp280-with-esp-32-on-i2c-with-errors-and-solutions/  - how to connect bmp280 to esp32 with i2c protocol
+
+https://robocraze.com/blogs/post/what-is-bmp280?srsltid=AU7gw4WSAUlGAMseUhjwj1XNhbGMAZPEmDXhFl4hX7N9WqtV4Yvld7wK  - how to connect bmp280 to esp32 with i2c protocol
