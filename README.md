@@ -12,7 +12,7 @@ This picture shows, how we can connect bmp280 by spi or i2c
 <img width="184" height="245" alt="image" src="https://github.com/user-attachments/assets/b87f06b6-0014-4aae-8d4d-7108f0dc9b92" />
 </p>
 
-[Pinout-NANOevery_v1.pdf](https://github.com/user-attachments/files/33303893/Pinout-NANOevery_v1.pdf)# bmp280_with_arduino
+[Pinout-NANOevery_v1.pdf](https://github.com/user-attachments/files/33303893/Pinout-NANOevery_v1.pdf) - Link for downloading pinout in pdf by offical Arduino
 
 <img width="1028" height="695" alt="image" src="https://github.com/user-attachments/assets/39605b82-e2c3-468f-8f8f-44d906e09579" />
 
@@ -26,6 +26,28 @@ This picture shows, how we can connect bmp280 by spi or i2c
 <p align="center">
 This drawing ilustrate, how I connected 2 pressure sensors to Arduino nano every 
 </p>
+
+<p align="center">
+<img width="1213" height="908" alt="image" src="https://github.com/user-attachments/assets/b643fe64-0cb4-4cb7-9370-bb187135ef97" />
+</p>
+<p align="center">
+How I soldered bmp280 for spi conection with arduino jumper
+</p>
+
+<p align="center">
+<img width="702" height="1280" alt="image" src="https://github.com/user-attachments/assets/0491a0ad-73c8-47a7-8f94-2a9d3871995c" />
+</p>
+<p align="center">
+Buttom of Arduino with soldered jumpers
+</p>
+
+<p align="center">
+<img width="1280" height="1021" alt="image" src="https://github.com/user-attachments/assets/f2706427-f304-4805-9ab0-c3d98606b2ba" />
+</p>
+Top of Arduino with soldered jumpers
+
+
+
 List of articles, which I used for this task: 
 
 https://www.circuitschools.com/interfacing-bmp280-with-esp-32-on-i2c-with-errors-and-solutions/  - how to connect bmp280 to esp32 with i2c protocol
