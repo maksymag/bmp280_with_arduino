@@ -45,9 +45,12 @@ Buttom of Arduino with soldered jumpers
 <img width="1280" height="1021" alt="image" src="https://github.com/user-attachments/assets/f2706427-f304-4805-9ab0-c3d98606b2ba" />
 </p>
 Top of Arduino with soldered jumpers
-
-
-
+<p align="center">
+<img width="1266" height="558" alt="image" src="https://github.com/user-attachments/assets/8a186e73-2ff5-4158-91c1-4f26f7c66858" />
+</p>
+<p align="center">
+As an example, we can see the difference between them because each sensor has its own error.
+</p>
 List of articles, which I used for this task: 
 
 https://www.circuitschools.com/interfacing-bmp280-with-esp-32-on-i2c-with-errors-and-solutions/  - how to connect bmp280 to esp32 with i2c protocol
